@@ -73,19 +73,6 @@ http://127.0.0.1:8000/send-notification?channel=sms&message=Hello via SMS
 | **Service Provider** | استخدام `NotificationServiceProvider` لتسجيل الخدمة داخل `Service Container`. |
 | **Dependency Injection** | تمرير `NotificationService` تلقائيًا إلى `NotificationController`. |
 
----
-
-## **📌 التحسينات المستقبلية | Future Enhancements**
-- ✅ إضافة دعم لإشعارات **WhatsApp** و **Push Notifications**.
-- ✅ تنفيذ **Queues** لمعالجة الإشعارات في الخلفية.
-- ✅ تسجيل الإشعارات لتتبعها لاحقًا.
-
----
-
-## **📌 المساهمة | Contributing**
-🎯 **هل لديك اقتراحات أو تحسينات؟** لا تتردد في تقديم **Pull Request** أو فتح **Issue** على GitHub!
-
-**Do you have suggestions or improvements?** Feel free to submit a **Pull Request** or open an **Issue** on GitHub!
 
 ---
 
